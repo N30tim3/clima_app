@@ -5,7 +5,7 @@ import { faFacebook, faTwitter, faLinkedin, faInstagram, faWhatsapp } from '@for
 
 
 const api = {
-  key: "30649491de4eb531e94d827b636242f0",
+  key: process.env.REACT_APP_API_KEY,
   base: "https://api.openweathermap.org/data/2.5/"
 }
 
