@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import useLocalStorage from "./Utils/useLocalStorage.js";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faFacebook, faTwitter, faLinkedin, faInstagram, faWhatsapp } from '@fortawesome/free-brands-svg-icons';
+import { faFacebook, faTwitter, faLinkedin, faInstagram, faWhatsapp, faGithub } from '@fortawesome/free-brands-svg-icons';
 
 
 const api = {
@@ -167,11 +167,12 @@ const SwitchImg = () => {
         <li><a href="https://www.linkedin.com/in/n30tim3/"><FontAwesomeIcon icon={faLinkedin} /></a></li>
         <li><a href="https://www.instagram.com/timecelebi/"><FontAwesomeIcon icon={faInstagram} /></a></li>
         <li><a href="https://api.whatsapp.com/send?phone=+525510961981"><FontAwesomeIcon icon={faWhatsapp} /></a></li>
+        <li><a href="https://github.com/N30tim3"><FontAwesomeIcon icon={faGithub} /></a></li>
         
     </ul>
     <ul className="menu">
-        <li><a href="#">Jose Alberto Hernandez Guzman</a></li>
-        <li><a href="#">CDMX</a></li>
+        <li><a href="https://github.com/N30tim3">Jose Alberto Hernandez Guzman</a></li>
+        <li><a href="#https://github.com/N30tim3">CDMX</a></li>
         <li><a href="mailto:contactoitph@gmail.com">Contacto</a></li>
     </ul>
     <p>2022 Todos Los Derechos Reservados - N30tim3</p>
