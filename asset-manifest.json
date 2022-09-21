@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/clima_app/static/css/main.a20b6c44.css",
+    "main.js": "/clima_app/static/js/main.bb715c7f.js",
+    "static/js/787.5069251b.chunk.js": "/clima_app/static/js/787.5069251b.chunk.js",
+    "static/media/mist.jpg": "/clima_app/static/media/mist.00f3983602b6b3f7ab43.jpg",
+    "static/media/snow.jpg": "/clima_app/static/media/snow.ac6ffe55aa12212d4d3f.jpg",
+    "static/media/clear_sky.jpg": "/clima_app/static/media/clear_sky.523f706033d755de06ed.jpg",
+    "static/media/thunderstorm.jpg": "/clima_app/static/media/thunderstorm.2f59fc782108bf21e33b.jpg",
+    "static/media/broken_clouds.jpg": "/clima_app/static/media/broken_clouds.a77ecbfa6a8dca6882c9.jpg",
+    "static/media/shower_rain.jpg": "/clima_app/static/media/shower_rain.943c61924386d46ddd6d.jpg",
+    "static/media/warm.jpg": "/clima_app/static/media/warm.4c81531542c1d5903f01.jpg",
+    "static/media/cold.jpg": "/clima_app/static/media/cold.f9ff557260275b0911c5.jpg",
+    "static/media/hot.jpg": "/clima_app/static/media/hot.f680dcc7d11c8d9259a7.jpg",
+    "static/media/scattered_clouds.jpg": "/clima_app/static/media/scattered_clouds.4e20edbc4c9473b51f66.jpg",
+    "static/media/rain.jpg": "/clima_app/static/media/rain.15352597c5eb8ff43d88.jpg",
+    "static/media/few_clouds.jpg": "/clima_app/static/media/few_clouds.c298e39c802301908949.jpg",
+    "index.html": "/clima_app/index.html",
+    "main.a20b6c44.css.map": "/clima_app/static/css/main.a20b6c44.css.map",
+    "main.bb715c7f.js.map": "/clima_app/static/js/main.bb715c7f.js.map",
+    "787.5069251b.chunk.js.map": "/clima_app/static/js/787.5069251b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a20b6c44.css",
+    "static/js/main.bb715c7f.js"
+  ]
+}
